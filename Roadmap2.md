@@ -1,4 +1,4 @@
-# Angular & Vue.js – 60-Day Production-Ready Learning Roadmap
+# Angular & Vue.js – 60-Day Production-Ready Learning Roadmap with real world projects
 
 ## Objective
 
